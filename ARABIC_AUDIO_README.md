@@ -1,0 +1,3 @@
+# Arabic audio — important
+
+The app now includes an Arabic recording import button (📁 صوت عربي). It accepts user-provided Arabic MP3/WAV/OGG audio, for `test`, `welcome`, `start`, and `mission-1` through `mission-8`. The import lasts for the current browser session. To publish with reliable audio for all families, put professionally recorded Arabic MP3 files in `audio/ar/` with the same filenames. This release does NOT include synthesized or recorded Arabic voice files. On devices with an Arabic browser voice, text-to-speech may work as fallback. The school logo was replaced with the user's most recently supplied file. The application is not approved for public school release without the school's review.

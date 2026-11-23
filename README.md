@@ -1,0 +1,1 @@
+HIMAYA X — Arabic Audio Update. School logo refreshed. Recorded audio takes precedence when available, with browser TTS fallback. See AUDIO_SETUP.md. This is a test release, not a verified public-ready bilingual audio edition. Safeguarding and school branding approvals remain required.

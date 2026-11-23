@@ -1,0 +1,7 @@
+- [ ] School approval for use of supplied logo and school name
+- [ ] Safeguarding lead reviews all eight missions and final knowledge check
+- [ ] Test English voice on Windows, Android, iOS and school tablets
+- [ ] Test Arabic voice on Windows, Android, iOS and school tablets; verify actual audible Arabic
+- [ ] Test 3D navigation and certificate on desktop/mobile
+- [ ] Publish via HTTPS GitHub Pages
+- [ ] Share link only after checks and school approval
